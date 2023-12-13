@@ -24,6 +24,10 @@ A full-stack application using Nest.js, Supabase, and React.
 
 4. Start the server `npm start`. The server will run on http://localhost:3001.
 
+### Testing Stripe payment
+
+Use the official stripe documentation to run a test payment. https://stripe.com/docs/testing#cards
+
 ### Additional Information
 
 This project uses Nest.js for the server, Supabase for the database, and React for the frontend.
