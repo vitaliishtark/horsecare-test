@@ -1,0 +1,18 @@
+@import '../../constants/constants';
+
+.footer {
+    background-color: $primary_blue;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5%;
+}
+.footer p {
+    margin: 0;
+}
+.footer a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+  
